@@ -27,6 +27,12 @@ p {
 	margin:20px;
 }
 
+.boxh1 {
+	margin: 0px 0px 0px 20px;
+	background-color: white;
+	border: none!important;
+}
+
 .box p {
 	clear:both;
 }
